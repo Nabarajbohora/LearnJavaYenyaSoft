@@ -9,7 +9,7 @@ class InvalidMarkException extends Exception{
     }
 
     }
-}
+
 public class UncheckedExceptionDemo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
